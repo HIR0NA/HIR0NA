@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Galaxy Divider" />
   
   <h1>🌌 Hi there, I'm Karn Yodkwuian (HIR0NA) <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35px"></h1>
@@ -12,7 +12,9 @@ div align="center">
     </a>
   </p>
 </div>
+
 <br/>
+
 <table align="center" border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -39,13 +41,16 @@ div align="center">
       <img src="https://img.shields.io/badge/Network_Config-B392F0?style=flat-square&logo=linux&logoColor=white" alt="Network Config" />
       <img src="https://img.shields.io/badge/Access_Points-79C0FF?style=flat-square&logo=ubiquiti&logoColor=white" alt="AP Config" />
       
-      <p><strong>Web & Tools</strong></p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <p><strong>Web & Tools</strong></p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
 </table>
+
 <br/>
+
 <div align="center">
   <h3>🛸 GitHub Analytics</h3>
   <a href="https://github.com/HIR0NA">
@@ -56,7 +61,9 @@ div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIR0NA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B392F0" alt="Top Languages" width="48%" />
   </a>
 </div>
+
 <br/>
+
 <table align="center" border="0" width="100%">
   <tr>
     <td>
@@ -70,7 +77,9 @@ div align="center">
     </td>
   </tr>
 </table>
+
 <br/>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Galaxy Divider" />
 </div>
