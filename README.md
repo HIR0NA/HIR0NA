@@ -18,33 +18,33 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>🌠 About Me</h3>
-      <p>I focus on delivering high-quality, meticulously crafted solutions rather than standard, repetitive code. Every line of code is written with attention to detail and a drive for optimal performance.</p>
-      <ul>
-        <li>🔭 Currently refining algorithmic trading systems (<strong>XAUUSD</strong>) with precise risk management.</li>
-        <li>🛡️ Expanding my expertise in <strong>Cybersecurity</strong> and secure system architecture.</li>
-        <li>📡 Managing and configuring <strong>Network Infrastructure</strong> (Switches, Access Points, and Routers).</li>
-        <li>💡 Exploring the integration of <strong>Generative AI</strong> in modern web development.</li>
-        <li>🌌 Building a futuristic, high-performance personal portfolio.</li>
-      </ul>
+<h3>🌠 About Me</h3>
+<p>I focus on delivering high-quality, meticulously crafted solutions rather than standard, repetitive code. Every line of code is written with attention to detail and a drive for optimal performance.</p>
+<ul>
+<li>🔭 Currently refining algorithmic trading systems (<strong>XAUUSD</strong>) with precise risk management.</li>
+<li>🛡️ Expanding my expertise in <strong>Cybersecurity</strong> and secure system architecture.</li>
+<li>📡 Managing and configuring <strong>Network Infrastructure</strong> (Switches, Access Points, and Routers).</li>
+<li>💡 Exploring the integration of <strong>Generative AI</strong> in modern web development.</li>
+<li>🌌 Building a futuristic, high-performance personal portfolio.</li>
+</ul>
     </td>
     <td width="45%" valign="top">
-      <h3>🚀 Tech Arsenal</h3>
-      <p><strong>Languages & Trading</strong></p>
-      <img src="https://img.shields.io/badge/MQL4%2F5-000000?style=flat-square&logo=meta&logoColor=white" alt="MQL" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      
-      <p><strong>Networking & Security</strong></p>
-      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Network_Config-B392F0?style=flat-square&logo=linux&logoColor=white" alt="Network Config" />
-      <img src="https://img.shields.io/badge/Access_Points-79C0FF?style=flat-square&logo=ubiquiti&logoColor=white" alt="AP Config" />
-      
-      <p><strong>Web & Tools</strong></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<h3>🚀 Tech Arsenal</h3>
+<p><strong>Languages & Trading</strong></p>
+<img src="https://img.shields.io/badge/MQL4%2F5-000000?style=flat-square&logo=meta&logoColor=white" alt="MQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<br/><br/>
+<p><strong>Networking & Security</strong></p>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Network_Config-B392F0?style=flat-square&logo=linux&logoColor=white" alt="Network Config" />
+<img src="https://img.shields.io/badge/Access_Points-79C0FF?style=flat-square&logo=ubiquiti&logoColor=white" alt="AP Config" />
+<br/><br/>
+<p><strong>Web & Tools</strong></p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
 </table>
