@@ -6,10 +6,15 @@
   <p><em>🚀 Passionate Developer | 🛡️ Cybersecurity Enthusiast | 📡 Network Engineer | 📈 Algorithmic Trading (MQL4/5)</em></p>
   
   <p>
+    <a href="https://www.linkedin.com/in/karn-yodkwuian-aa26b5395/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:papong379@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.instagram.com/stif.fnecks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
+  <p>
     <a href="https://github.com/HIR0NA">
-      <!-- Changed color to galaxy purple (B392F0) -->
       <img src="https://img.shields.io/github/followers/HIR0NA?label=Followers&style=for-the-badge&color=B392F0&logo=github" alt="GitHub followers" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=HIR0NA&style=for-the-badge&color=79C0FF&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 </div>
 
@@ -25,6 +30,7 @@
 <li>🛡️ Expanding my expertise in <strong>Cybersecurity</strong> and secure system architecture.</li>
 <li>📡 Managing and configuring <strong>Network Infrastructure</strong> (Switches, Access Points, and Routers).</li>
 <li>🧠 Proficient in utilizing <strong>Generative AI</strong> and <strong>Agentic AI workflows</strong> to accelerate development, problem-solving, and automation.</li>
+<li>🗣️ <strong>Languages:</strong> Thai (Native) & English (Professional Proficiency).</li>
 <li>🌌 Building a futuristic, high-performance personal portfolio.</li>
 </ul>
     </td>
