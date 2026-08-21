@@ -24,7 +24,7 @@
 <li>🔭 Currently refining algorithmic trading systems (<strong>XAUUSD</strong>) with precise risk management.</li>
 <li>🛡️ Expanding my expertise in <strong>Cybersecurity</strong> and secure system architecture.</li>
 <li>📡 Managing and configuring <strong>Network Infrastructure</strong> (Switches, Access Points, and Routers).</li>
-<li>💡 Exploring the integration of <strong>Generative AI</strong> in modern web development.</li>
+<li>🧠 Proficient in utilizing <strong>Generative AI</strong> and <strong>Agentic AI workflows</strong> to accelerate development, problem-solving, and automation.</li>
 <li>🌌 Building a futuristic, high-performance personal portfolio.</li>
 </ul>
     </td>
@@ -40,6 +40,11 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Network_Config-B392F0?style=flat-square&logo=linux&logoColor=white" alt="Network Config" />
 <img src="https://img.shields.io/badge/Access_Points-79C0FF?style=flat-square&logo=ubiquiti&logoColor=white" alt="AP Config" />
+<br/><br/>
+<p><strong>AI & Automation</strong></p>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Agentic_AI-B392F0?style=flat-square&logo=smartthings&logoColor=white" alt="Agentic AI" />
 <br/><br/>
 <p><strong>Web & Tools</strong></p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
