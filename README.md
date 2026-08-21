@@ -55,10 +55,10 @@
   <h3>🛸 GitHub Analytics</h3>
   <a href="https://github.com/HIR0NA">
     <!-- Changed title_color to match the Galaxy theme (B392F0) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=HIR0NA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B392F0" alt="HIR0NA's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HIR0NA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B392F0" alt="HIR0NA's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/HIR0NA">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIR0NA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B392F0" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HIR0NA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B392F0" alt="Top Languages" width="48%" />
   </a>
 </div>
 
